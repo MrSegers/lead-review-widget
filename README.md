@@ -1,1 +1,1 @@
-# lead_review-widget
+# lead-review-widget
