@@ -1,0 +1,20 @@
+
+{
+  "platform": "CRM",
+  "widget": {
+    "name": "LeadReviewWidget",
+    "location": "lead-review-widget",
+    "version": "1.0",
+    "components": {
+      "html": "index.html"
+    }
+  },
+  "permissions": {
+    "crm": {
+      "scopes": [
+        "ZohoCRM.modules.leads.READ",
+        "ZohoCRM.modules.leads.UPDATE"
+      ]
+    }
+  }
+}
